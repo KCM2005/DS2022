@@ -17,6 +17,7 @@ The friends went to see a two-hour movie yesterday, and they found it to be enjo
 And then after all the excitement, they had to do their homework weekly to keep up with their studies.
 
 
+
 % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  3668  100  3668    0     0  44632      0 --:--:-- --:--:-- --:--:-- 44731
