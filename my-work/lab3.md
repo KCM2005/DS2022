@@ -1,4 +1,3 @@
-#Script 1
 1. Name a favorite food: pizza
 2. Name a favorite sport: football
 3. What to do after spending time with friends for a day: sleep
@@ -17,11 +16,12 @@ The friends went to see a two-hour movie yesterday, and they found it to be enjo
 And then after all the excitement, they had to do their homework weekly to keep up with their studies.
 
 
-#Script 2 
 % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  3668  100  3668    0     0  44632      0 --:--:-- --:--:-- --:--:-- 44731
+
 lab3_data.tsv
+
 practice [main]$ cat 03-cleaning/mock_data.tsv
 id      first_name      last_name       email   ip_address      dob
 1       Evelyn  Brockhurst      ebrockhurst0@bing.com   40.101.189.143  04/02/1987
