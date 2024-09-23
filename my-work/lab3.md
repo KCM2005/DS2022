@@ -127,6 +127,7 @@ lab3_data.csv
 
 KCM2005
 https://api.github.com/users/KCM2005/events
+
 PushEvent :: KCM2005/DS2022
 PushEvent :: KCM2005/DS2022
 PushEvent :: KCM2005/DS2022
