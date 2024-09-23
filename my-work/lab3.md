@@ -6,6 +6,7 @@
 6. The dog is: brave
 7. I went to see a movie: yesterday
 8. I do my homework: weekly
+
 Once upon a time, there was a delicious pizza that everyone loved.
 Every weekend, people gathered to watch football games.
 After enjoying the food while watching the games, they would go to sleep.
